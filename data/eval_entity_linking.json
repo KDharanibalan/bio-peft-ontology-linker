@@ -1,0 +1,17 @@
+[
+  {"id": "el_01", "mention": "loss of skeletal fiber diameter after limb cast", "context": "Preclinical disuse study measuring muscle wasting and cross-sectional area.", "gold_concept_id": "MESH:D009133"},
+  {"id": "el_02", "mention": "small nano-sized secreted membrane particles", "context": "Isolated at 100,000 x g ultracentrifugation, CD63/TSG101 positive lipid bilayer vesicles.", "gold_concept_id": "GO:1903561"},
+  {"id": "el_03", "mention": "ATP-dependent intracellular protein breakdown machinery", "context": "Multisubunit protease complex driving proteostasis during denervation.", "gold_concept_id": "GO:0000502"},
+  {"id": "el_04", "mention": "dexa steroid reagent 50-02-2", "context": "Potent glucocorticoid used at 10 uM to induce catabolic myotube atrophy.", "gold_concept_id": "CHEBI:41879"},
+  {"id": "el_05", "mention": "new capillary vessel growth from existing endothelium", "context": "Assayed via HUVEC vascular sprouting and tube formation.", "gold_concept_id": "GO:0001525"},
+  {"id": "el_06", "mention": "reduced gravitational load via clinostat rotation", "context": "Short-term microgravity unloading stress in cultured endothelial cells.", "gold_concept_id": "MESH:D018474"},
+  {"id": "el_07", "mention": "glucose uptake receptor internalization during fasting", "context": "Regulated by beta-dystroglycan deglycosylation affecting insulin signalling.", "gold_concept_id": "GO:0008286"},
+  {"id": "el_08", "mention": "engineered triple-helical matrix scaffold protein", "context": "Bacterial recombinant biomaterial purified with unnatural amino acids for hydrogels.", "gold_concept_id": "MESH:D003094"},
+  {"id": "el_09", "mention": "endothelial gaseous vasodilator signalling radical", "context": "Modulates vascular homeostasis and angiogenic responses.", "gold_concept_id": "CHEBI:16480"},
+  {"id": "el_10", "mention": "teratogenic imide compound linked to eye anomalies", "context": "Anti-angiogenic drug profiled in chick embryo transcriptome studies.", "gold_concept_id": "CHEBI:9507"},
+  {"id": "el_11", "mention": "Muscle RING-finger E3 ubiquitin ligase", "context": "Canonical atrophy marker TRIM63 elevated in dexamethasone-treated myotubes.", "gold_concept_id": "HGNC:16009"},
+  {"id": "el_12", "mention": "F-box atrophy ubiquitin ligase 32", "context": "MAFbx/Atrogin-1 co-upregulated with MuRF1 during muscle wasting.", "gold_concept_id": "HGNC:16731"},
+  {"id": "el_13", "mention": "hospital discharge code for acquired muscle wasting", "context": "Clinical diagnostic classification M62.5 for immobilized ICU patient.", "gold_concept_id": "ICD10:M62.5"},
+  {"id": "el_14", "mention": "post-transcriptional target mRNA silencing by small RNAs", "context": "Mapped via miRNA interactome and bulk RNA-seq profiling.", "gold_concept_id": "GO:0035195"},
+  {"id": "el_15", "mention": "catabolic exosomes transferring atrophy signals", "context": "NanoSight diameter 50-150 nm, lipid bilayer vesicles released by C2C12 myotubes.", "gold_concept_id": "GO:1903561"}
+]
