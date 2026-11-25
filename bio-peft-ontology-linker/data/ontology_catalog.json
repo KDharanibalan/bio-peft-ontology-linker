@@ -1,0 +1,114 @@
+[
+  {
+    "concept_id": "MESH:D009133",
+    "ontology": "MeSH",
+    "canonical_name": "Muscular Atrophy",
+    "category": "Disease/Phenotype",
+    "synonyms": ["muscle wasting", "skeletal muscle atrophy", "disuse atrophy", "myotube atrophy", "muscle mass loss"],
+    "definition": "Degeneration and wasting of skeletal muscle fibers caused by disuse, denervation, fasting, or glucocorticoid exposure."
+  },
+  {
+    "concept_id": "GO:1903561",
+    "ontology": "Gene Ontology",
+    "canonical_name": "Extracellular Vesicle",
+    "category": "Cellular Component",
+    "synonyms": ["EV", "EVs", "exosomes", "microvesicles", "muscle-derived vesicles", "secreted lipid bilayer vesicles"],
+    "definition": "Membrane-bounded lipid bilayer vesicles released from cells mediating intercellular cargo and signal transfer."
+  },
+  {
+    "concept_id": "GO:0000502",
+    "ontology": "Gene Ontology",
+    "canonical_name": "Proteasome Complex",
+    "category": "Cellular Component",
+    "synonyms": ["26S proteasome", "20S core proteasome", "ubiquitin-proteasome system", "UPS", "proteolytic complex"],
+    "definition": "Large multisubunit protease complex responsible for ATP-dependent intracellular protein degradation and proteostasis."
+  },
+  {
+    "concept_id": "CHEBI:41879",
+    "ontology": "ChEBI",
+    "canonical_name": "Dexamethasone",
+    "category": "Chemical/Drug",
+    "synonyms": ["DEX", "synthetic glucocorticoid", "glucocorticoid steroid", "CAS 50-02-2", "dexamethasone sodium"],
+    "definition": "Potent synthetic glucocorticoid widely used to model catabolic skeletal muscle atrophy and anti-inflammatory signalling."
+  },
+  {
+    "concept_id": "GO:0001525",
+    "ontology": "Gene Ontology",
+    "canonical_name": "Angiogenesis",
+    "category": "Biological Process",
+    "synonyms": ["neovascularization", "blood vessel formation", "endothelial sprouting", "vascular tube formation", "angiogenic response"],
+    "definition": "Formation of new capillary blood vessels from pre-existing endothelial vasculature."
+  },
+  {
+    "concept_id": "MESH:D018474",
+    "ontology": "MeSH",
+    "canonical_name": "Weightlessness Simulation",
+    "category": "Experimental Condition",
+    "synonyms": ["mechanical unloading", "simulated microgravity", "hindlimb unloading", "clinorotation", "unloading stress"],
+    "definition": "Reduction of gravitational or mechanical load on tissues or cultured endothelial and muscle cells."
+  },
+  {
+    "concept_id": "GO:0008286",
+    "ontology": "Gene Ontology",
+    "canonical_name": "Insulin Receptor Signaling Pathway",
+    "category": "Biological Process",
+    "synonyms": ["insulin signalling", "insulin receptor turnover", "INSR pathway", "insulin resistance signalling"],
+    "definition": "Series of intracellular molecular signals initiated by insulin binding to its cell-surface receptor regulating glucose uptake and anabolism."
+  },
+  {
+    "concept_id": "MESH:D003094",
+    "ontology": "MeSH",
+    "canonical_name": "Collagen",
+    "category": "Biomaterial/Protein",
+    "synonyms": ["collagen-like protein", "CLP", "triple-helix collagen", "recombinant collagen scaffold", "extracellular matrix collagen"],
+    "definition": "Structural triple-helical fibrillar proteins and engineered collagen-like analogues used in tissue engineering scaffolds."
+  },
+  {
+    "concept_id": "CHEBI:16480",
+    "ontology": "ChEBI",
+    "canonical_name": "Nitric Oxide",
+    "category": "Signalling Molecule",
+    "synonyms": ["NO", "endothelial nitric oxide", "NO-mediated signalling", "nitric oxide radical"],
+    "definition": "Gaseous free-radical vasodilator and signalling molecule regulating endothelial homeostasis and angiogenesis."
+  },
+  {
+    "concept_id": "CHEBI:9507",
+    "ontology": "ChEBI",
+    "canonical_name": "Thalidomide",
+    "category": "Chemical/Drug",
+    "synonyms": ["thalidomide teratogen", "anti-angiogenic thalidomide", "immunomodulatory imide drug"],
+    "definition": "Anti-angiogenic and teratogenic compound linked to developmental limb and ocular anomalies in chick embryo models."
+  },
+  {
+    "concept_id": "HGNC:16009",
+    "ontology": "HGNC",
+    "canonical_name": "TRIM63 (MuRF1)",
+    "category": "Gene/Protein",
+    "synonyms": ["MuRF1", "TRIM63", "Muscle RING-finger protein-1", "atrophy E3 ubiquitin ligase MuRF1"],
+    "definition": "Muscle-specific E3 ubiquitin ligase upregulated during disuse, denervation, and glucocorticoid-induced skeletal muscle wasting."
+  },
+  {
+    "concept_id": "HGNC:16731",
+    "ontology": "HGNC",
+    "canonical_name": "FBXO32 (Atrogin-1)",
+    "category": "Gene/Protein",
+    "synonyms": ["Atrogin-1", "MAFbx", "FBXO32", "F-box protein 32"],
+    "definition": "Skeletal muscle F-box E3 ubiquitin ligase mediating proteasomal degradation pathways during catabolic atrophy."
+  },
+  {
+    "concept_id": "ICD10:M62.5",
+    "ontology": "ICD-10",
+    "canonical_name": "Muscle Wasting and Atrophy, Not Elsewhere Classified",
+    "category": "Clinical Code",
+    "synonyms": ["clinical disuse muscle atrophy", "disuse myopathy code", "skeletal muscle wasting diagnosis", "M62.5"],
+    "definition": "Clinical diagnostic classification covering acquired skeletal muscle wasting and disuse atrophy."
+  },
+  {
+    "concept_id": "GO:0035195",
+    "ontology": "Gene Ontology",
+    "canonical_name": "miRNA-Mediated Gene Silencing",
+    "category": "Biological Process",
+    "synonyms": ["miRNA interactome", "microRNA regulation", "miRNA post-transcriptional silencing", "microRNA network"],
+    "definition": "Post-transcriptional regulation of target mRNA stability and translation mediated by endogenous microRNAs."
+  }
+]
